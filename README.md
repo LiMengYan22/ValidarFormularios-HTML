@@ -20,9 +20,12 @@ email, usuario y contraseña pasen una validación de cadena, y evitar inyeccion
 
 <hr>
 *Algunas Referencias:*
+
 https://www.w3schools.com/html/html_form_attributes.asp
 
+
 http://html5pattern.com
+
 
 https://oscargascon.es/validacion-de-formularios-con-html5-y-expresiones-regulares-sin-uso-de-js-utilizacion-de-css-y-fontawesome-para-mostrar-campos-validos-en-formularios
 

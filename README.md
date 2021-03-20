@@ -19,7 +19,9 @@ Para incluir en el típico formulario de alta que algunos de los campos como nom
 email, usuario y contraseña pasen una validación de cadena, y evitar inyecciones SQL a través del web.
 
 <hr>
+
 *Algunas Referencias:*
+
 
 https://www.w3schools.com/html/html_form_attributes.asp
 

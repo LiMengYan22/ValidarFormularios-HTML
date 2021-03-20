@@ -1,10 +1,10 @@
 # ValidarFormularios-HTML5 :+1: 
-Validación de Formularios con expresiones regulares, en HTML5 *(anti SQL injections..)* :syringe:
+Validación de Formularios con expresiones regulares, en HTML5 *(anti SQL :syringe: injections..)* 
 <hr>
 
 **-Simple:** <input type="text" name="pais" title="TRES LETRAS espacio y signos"pattern="[A-Za-z ,.-]{3}">
 
-**-Otro:** pattern="[a-zA-Z0-9.€]":+1: 
+**-Otro:** pattern="[a-zA-Z0-9.€]"
 
 ----------------------------------------------------------------------------------------
 ## Validaciones con expresiones regulares:

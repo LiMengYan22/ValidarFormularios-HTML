@@ -1,12 +1,12 @@
 # ValidarFormularios-HTML
-Validación de Formularios con expresiones regulares, en HTML (anti SQL injections..)
+Validación de Formularios con expresiones regulares, en HTML *(anti SQL injections..)*
 <hr>
 
 **Simple:** <input type="text" name="pais" title="TRES LETRAS espacio y signos"pattern="[A-Za-z ,.-]{3}">
 
-**otro pattern="[a-zA-Z0-9.€]"**
+**Otro** pattern="[a-zA-Z0-9.€]"
 ----------------------------------------------------------------------------------------
-##Validaciones con expresiones regulares:
+## Validaciones con expresiones regulares:
 
 Según wikipedia: Una expresión regular, a menudo llamada también regex, es una secuencia de caracteres que forma
 un patrón de búsqueda, principalmente utilizada para la búsqueda de patrones de cadenas de caracteres u operaciones
